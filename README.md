@@ -181,11 +181,11 @@ sudo ip addr add 192.168.0.10/24 dev <название интерфейса>
 1. перейти в веб-интерфейс Laurent по адресу 192.168.0.101, при переходе будет запрошен логин и пароль: admin / Laurent
 2. Перейти в пункт "Общие сетевые настройки", найти "Сетевые настройки" и поставить напротив значения "DHCP" значение "ON",
 предварительно запомнив МАC-адрес, что-бы дальше было легче его найти
-![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/Laurent/laurent_first_settings.png)
-![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/Laurent/laurent_DHCP_enable.png)
+![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/laurent/laurent_first_settings.png)
+![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/laurent/laurent_DHCP_enable.png)
 
 3. Перезагрузить реле с помощью команды "Программная перезагрузка"
-![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/Laurent/Laurent_reboot.png)
+![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/laurent/Laurent_reboot.png)
 
 4. Зарезервировать новый IP-адрес за реле в роутере
 5. Проверить веб-интерфейс по новому IP-адресу
