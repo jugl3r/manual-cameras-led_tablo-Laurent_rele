@@ -193,9 +193,9 @@ sudo ip addr add 192.168.0.10/24 dev <название интерфейса>
 После следует проверить работоспособность реле на команды открытия и закрытия шлагбаума, для этого необходимо:
 1. Перейти в веб-интерфейс реле по IP-адресу
 2. Перейти в пункт "Электромагнитное реле"
-![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/Laurent/Laurent_rele.png)
+![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/laurent/Laurent_rele.png)
 3. Проверить по кнопкам "RELE-{1-4}" наличие реакции на открытие/закрытие
-![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/Laurent/Laurent_rele_check.png)
+![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/laurent/Laurent_rele_check.png)
 4. В случае каких-либо проблем с открытием/закрытием описать и передать проблему монтажнику для решения проблемы
 
 ## 🖥️ 3. Настройка Табло
