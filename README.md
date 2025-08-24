@@ -136,7 +136,7 @@ streams:
     - rtsp://admin:<password>@192.168.1.101:554/ISAPI/Streaming/Channels/102
 
 ```
-Так-же необходимо заменить в конце файла учётные данные от камер на актуальные
+Так-же необходимо заменить в конце файла учётные данные от камер на актуальные:
 ```bash
 
 username: "admin"  # default "", Basic auth for WebUI
