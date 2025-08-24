@@ -87,7 +87,7 @@ wine SADPTool.exe
 После чего откроется первоначальное окно SADP
 
 Первоначальное окно SADP:
-![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/SADP_first_screen.png)
+![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/SADP_first_screen.png)
 
 При отсутствии камер в приложении передать информацию монтажнику, что-бы проверил подключение камер в сеть
 
@@ -96,6 +96,8 @@ wine SADPTool.exe
 
 
 1. Слева от неактивированной камеры нажать на квадрат, что-бы конфигурировать именно эту камеру
+
+![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/images/first_settings.png)
 
 2. В правой части появится окно с настройками камеры, нажать на 'ENABLE DHCP", что-бы камера получила актуальные сетевые настройки от роутера
 
