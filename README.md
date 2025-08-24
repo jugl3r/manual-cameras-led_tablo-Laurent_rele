@@ -87,7 +87,7 @@ wine SADPTool.exe
 После чего откроется первоначальное окно SADP
 
 Первоначальное окно SADP:
-!Х[alt text] https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/SADP_first_screen.png
+![alt text](https://github.com/jugl3r/manual-cameras-led_tablo-Laurent_rele/raw/main/SADP_first_screen.png)
 
 При отсутствии камер в приложении передать информацию монтажнику, что-бы проверил подключение камер в сеть
 
