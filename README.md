@@ -106,15 +106,15 @@ Superuser created successfully.
 ```
 Далее необходимо перейти в браузере по адресу Backend "localhost:8001/api/accounts/login" и ввести данные от созданного вами учётной записи
 
-![alt text](api_login.jpg)
+![alt text](api_login.png)
 
 После чего вы получите 200 код, который говорит о успешной авторизации
 
-![alt text](api_right_login.jpg)
+![alt text](api_right_login.png)
 
 Далее перейдите в /api/parking/ и создайте парковку с желаемым названием и адресом
 
-![alt text](api-parking.jpg)
+![alt text](api-parking.png)
 
 После чего перейдите на Frontend по адресу localhost:8080 и введите данные от созданной учётной записи
 
